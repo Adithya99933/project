@@ -1,0 +1,47 @@
+body{
+    font-family: 'Merriweather', serif;
+    background-color:#000;
+  }
+  
+  .caption{
+    text-align:center;
+  }
+  .intro {
+      height: 855px;  
+      padding-top: 40px; 
+      padding-bottom: 10px;
+      text-align: center;
+      background: url('http://pic.fullskyart.com/data/wallpapers/9/WDF_576284.jpg') no-repeat center center fixed;
+      background-size: cover;
+      height: 855px;
+  }
+  .about-a {
+      height: 855px;  
+      padding-top: 30px; 
+      padding-bottom: 50px;
+      text-align: center;
+      background: url('http://images.freeimages.com/images/previews/d2c/fjord-hdr-1169486.jpg') no-repeat center center fixed;
+      background-size: cover;
+      height: 855px;
+  }
+  .about-b {
+      height: 855px;  
+      padding-top: 30px; 
+      padding-bottom: 50px;
+      text-align: center;
+      background: url('http://images.freeimages.com/images/previews/c0d/autumn-leaves-1171566.jpg') no-repeat center center fixed;
+      background-size: cover;
+      height: 855px;
+  }
+  .about-c {
+      height: 855px;  
+      padding-top: 30px; 
+      padding-bottom: 50px;
+      text-align: center;
+      background: url('http://i.istockimg.com/file_thumbview_approve/28260054/6/stock-illustration-28260054-elegance-of-fractal-realms.jpg') no-repeat center center fixed;
+      background-size: cover;
+      height: 855px;
+  }
+  li {
+    list-style-type: none;
+  }
